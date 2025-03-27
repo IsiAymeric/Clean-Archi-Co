@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { GradeFileRepository } from "../../infrastructure/repositories/GradeFileRpository";
+import { GradeFileRepository } from "../../infrastructure/repositories/GradeFileRepository";
 import { GetStudentGradeById } from "../../application/useCases/GetStudentGradeById";
 import { GetStudentAverageById } from "../../application/useCases/GetStudentAverageById";
 
