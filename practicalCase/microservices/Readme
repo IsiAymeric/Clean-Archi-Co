@@ -3,6 +3,8 @@ cd 'src\students'
 npm init -y
 npm install express
 npm install --save-dev typescript ts-node @types/express
+npm install cors
+npm install --save-dev typescript ts-node @types/cors
 
 #Lancement de l'api students
 npx ts-node src/api/app.ts
