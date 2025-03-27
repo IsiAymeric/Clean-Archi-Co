@@ -1,10 +1,13 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import { Grade} from "../../core/entities/Grade";
-import {StudentsGrades } from "../../core/entities/StudentsGrades"
 import { IGradeRepository } from "../../application/interfaces/IGradeRepository";
 
 const FILE_PATH = path.join(__dirname, '../../data/grades.json');
+
+interface StudentsGrades {
+  [studentId: string]: Grade[];
+}
 
 export class GradeFileRepository implements IGradeRepository {
 
