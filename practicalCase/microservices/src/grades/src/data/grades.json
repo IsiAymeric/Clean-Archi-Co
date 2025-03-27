@@ -1,0 +1,52 @@
+{
+    "e5567b": [
+      { "value": 14, "subject": "Mathématiques", "teacher": "M. Dupont" },
+      { "value": 16, "subject": "Physique", "teacher": "Mme Lefèvre" },
+      { "value": 12, "subject": "Informatique", "teacher": "M. Bernard" },
+      { "value": 17, "subject": "Anglais", "teacher": "Mme Dubois" }
+    ],
+    "e4976c": [
+      { "value": 18, "subject": "Mathématiques", "teacher": "M. Dupont" },
+      { "value": 15, "subject": "Physique", "teacher": "Mme Lefèvre" },
+      { "value": 13, "subject": "Histoire", "teacher": "M. Rousseau" },
+      { "value": 19, "subject": "Philosophie", "teacher": "Mme Voltaire" },
+      { "value": 16, "subject": "Anglais", "teacher": "Mme Dubois" }
+    ],
+    "e1232b": [
+      { "value": 10, "subject": "Mathématiques", "teacher": "M. Dupont" },
+      { "value": 12, "subject": "Physique", "teacher": "Mme Lefèvre" },
+      { "value": 14, "subject": "Informatique", "teacher": "M. Bernard" },
+      { "value": 9, "subject": "Histoire", "teacher": "M. Rousseau" },
+      { "value": 11, "subject": "Philosophie", "teacher": "Mme Voltaire" }
+    ],
+    "e9886a": [
+      { "value": 16, "subject": "Mathématiques", "teacher": "M. Dupont" },
+      { "value": 15, "subject": "Physique", "teacher": "Mme Lefèvre" },
+      { "value": 14, "subject": "Histoire", "teacher": "M. Rousseau" },
+      { "value": 18, "subject": "Philosophie", "teacher": "Mme Voltaire" },
+      { "value": 17, "subject": "Anglais", "teacher": "Mme Dubois" },
+      { "value": 16, "subject": "Informatique", "teacher": "M. Bernard" }
+    ],
+    "e9845b": [
+      { "value": 11, "subject": "Mathématiques", "teacher": "M. Dupont" },
+      { "value": 14, "subject": "Physique", "teacher": "Mme Lefèvre" },
+      { "value": 13, "subject": "Histoire", "teacher": "M. Rousseau" }
+    ],
+    "e9875c": [
+      { "value": 19, "subject": "Mathématiques", "teacher": "M. Dupont" },
+      { "value": 17, "subject": "Physique", "teacher": "Mme Lefèvre" },
+      { "value": 16, "subject": "Informatique", "teacher": "M. Bernard" },
+      { "value": 18, "subject": "Histoire", "teacher": "M. Rousseau" },
+      { "value": 17, "subject": "Philosophie", "teacher": "Mme Voltaire" },
+      { "value": 19, "subject": "Anglais", "teacher": "Mme Dubois" },
+      { "value": 18, "subject": "Science", "teacher": "M. Einstein" }
+    ],
+    "e5412f": [
+      { "value": 12, "subject": "Mathématiques", "teacher": "M. Dupont" },
+      { "value": 15, "subject": "Physique", "teacher": "Mme Lefèvre" },
+      { "value": 14, "subject": "Histoire", "teacher": "M. Rousseau" },
+      { "value": 13, "subject": "Anglais", "teacher": "Mme Dubois" },
+      { "value": 15, "subject": "Science", "teacher": "M. Einstein" },
+      { "value": 17, "subject": "Philosophie", "teacher": "Mme Voltaire" }
+    ]
+}
