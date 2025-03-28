@@ -16,12 +16,6 @@ export class GradeFileRepository implements IGradeRepository {
       const data = await fs.readFile(FILE_PATH, 'utf-8');
       return JSON.parse(data);
     }
-
-    // Récupérer tous les utilisateur
-    public async getAll(): Promise<StudentsGrades> {
-      const data = await fs.readFile(FILE_PATH, 'utf-8');
-      return JSON.parse(data);
-    }
   
     // Récupérer un utilisateur par ID
     public async getByStudentId(id: string): Promise<Grade[] | null> {

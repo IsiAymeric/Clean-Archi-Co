@@ -5,7 +5,7 @@ import { UserRepository } from "../../infrastructure/repositories/UserRepository
 import { UserFileRepository } from "../../infrastructure/repositories/UserFileRepository";
 
 // Création du repository et des cas d'utilisation
-const userRepository = new UserRepository();
+const userRepository = new UserFileRepository();
 const getUserById = new GetUserById(userRepository);
 const getAllUsers = new GetAllUsers(userRepository);
 
